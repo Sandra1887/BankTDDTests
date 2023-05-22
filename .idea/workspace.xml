@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade45f45-09b0-4e4c-966d-9041f39a9cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_adowrath_chaiJ_junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TddJUnitProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ade45f45-09b0-4e4c-966d-9041f39a9cd9" name="Changes" comment="Tdd with JUnit. Testing bank deposits and withdrawals">
+      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +55,17 @@
       <option name="presentableId" value="Default" />
       <updated>1684737598064</updated>
     </task>
+    <task id="LOCAL−00001" summary="Tdd with JUnit. Testing bank deposits and withdrawals">
+      <created>1684741284829</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1684741284829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tdd with JUnit. Testing bank deposits and withdrawals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tdd with JUnit. Testing bank deposits and withdrawals" />
   </component>
 </project>
